@@ -1,0 +1,6 @@
+@pvms_lb1_ServerWebAPI_Chervenko_HostAddress = http://localhost:5225
+
+GET {{pvms_lb1_ServerWebAPI_Chervenko_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

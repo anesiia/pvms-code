@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ClassLibrary_Chervenko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{511AA0E9-B44D-4B6A-9272-6D2EC8B555F1}|pvms_lb1_ClassLibrary_Chervenko\\pvms_lb1_ClassLibrary_Chervenko.csproj|c:\\users\\moivt\\source\\repos\\pvms_lb1_classlibrary_chervenko\\pvms_lb1_classlibrary_chervenko\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511AA0E9-B44D-4B6A-9272-6D2EC8B555F1}|pvms_lb1_ClassLibrary_Chervenko\\pvms_lb1_ClassLibrary_Chervenko.csproj|solutionrelative:pvms_lb1_classlibrary_chervenko\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511AA0E9-B44D-4B6A-9272-6D2EC8B555F1}|pvms_lb1_ClassLibrary_Chervenko\\pvms_lb1_ClassLibrary_Chervenko.csproj|C:\\Users\\moivt\\source\\repos\\pvms_lb1_ClassLibrary_Chervenko\\pvms_lb1_classlibrary_chervenko\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511AA0E9-B44D-4B6A-9272-6D2EC8B555F1}|pvms_lb1_ClassLibrary_Chervenko\\pvms_lb1_ClassLibrary_Chervenko.csproj|solutionrelative:pvms_lb1_classlibrary_chervenko\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 362,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ClassLibrary_Chervenko\\pvms_lb1_ClassLibrary_Chervenko\\Class1.cs",
+              "RelativeDocumentMoniker": "pvms_lb1_ClassLibrary_Chervenko\\Class1.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ClassLibrary_Chervenko\\pvms_lb1_ClassLibrary_Chervenko\\Class1.cs",
+              "RelativeToolTip": "pvms_lb1_ClassLibrary_Chervenko\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:14:43.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ClassLibrary_Chervenko\\pvms_lb1_ClassLibrary_Chervenko\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "pvms_lb1_ClassLibrary_Chervenko\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ClassLibrary_Chervenko\\pvms_lb1_ClassLibrary_Chervenko\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "pvms_lb1_ClassLibrary_Chervenko\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:28:45.82Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

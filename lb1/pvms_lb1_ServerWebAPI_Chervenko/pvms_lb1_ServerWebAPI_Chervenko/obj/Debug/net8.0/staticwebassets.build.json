@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oHlwEV1lXmSBMbqGbuljr4TFdewVyCpUJDDZ+/OK8Yg=",
+  "Source": "pvms_lb1_ServerWebAPI_Chervenko",
+  "BasePath": "_content/pvms_lb1_ServerWebAPI_Chervenko",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

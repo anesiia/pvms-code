@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\pvms_lb1_ServerWebAPI_Chervenko.props" />
+</Project>

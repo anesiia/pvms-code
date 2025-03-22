@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pvms_lb1_ClassLibrary_Chervenko", "pvms_lb1_ClassLibrary_Chervenko\pvms_lb1_ClassLibrary_Chervenko.csproj", "{511AA0E9-B44D-4B6A-9272-6D2EC8B555F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{511AA0E9-B44D-4B6A-9272-6D2EC8B555F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511AA0E9-B44D-4B6A-9272-6D2EC8B555F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511AA0E9-B44D-4B6A-9272-6D2EC8B555F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511AA0E9-B44D-4B6A-9272-6D2EC8B555F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7FBA49A-B6C8-4AFC-B934-9AA40A7C3072}
+	EndGlobalSection
+EndGlobal

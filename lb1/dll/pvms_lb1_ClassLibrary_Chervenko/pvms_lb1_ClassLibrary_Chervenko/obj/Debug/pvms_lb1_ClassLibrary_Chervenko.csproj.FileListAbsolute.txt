@@ -1,0 +1,6 @@
+C:\Users\moivt\source\repos\pvms_lb1_ClassLibrary_Chervenko\pvms_lb1_ClassLibrary_Chervenko\bin\Debug\pvms_lb1_ClassLibrary_Chervenko.dll
+C:\Users\moivt\source\repos\pvms_lb1_ClassLibrary_Chervenko\pvms_lb1_ClassLibrary_Chervenko\bin\Debug\pvms_lb1_ClassLibrary_Chervenko.pdb
+C:\Users\moivt\source\repos\pvms_lb1_ClassLibrary_Chervenko\pvms_lb1_ClassLibrary_Chervenko\obj\Debug\pvms_lb1_ClassLibrary_Chervenko.csproj.AssemblyReference.cache
+C:\Users\moivt\source\repos\pvms_lb1_ClassLibrary_Chervenko\pvms_lb1_ClassLibrary_Chervenko\obj\Debug\pvms_lb1_ClassLibrary_Chervenko.csproj.CoreCompileInputs.cache
+C:\Users\moivt\source\repos\pvms_lb1_ClassLibrary_Chervenko\pvms_lb1_ClassLibrary_Chervenko\obj\Debug\pvms_lb1_ClassLibrary_Chervenko.dll
+C:\Users\moivt\source\repos\pvms_lb1_ClassLibrary_Chervenko\pvms_lb1_ClassLibrary_Chervenko\obj\Debug\pvms_lb1_ClassLibrary_Chervenko.pdb

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Client</title>
+</head>
+<body>
+    <h1>Клієнтський застосунок</h1>
+    <input type="text" id="inputText" placeholder="Введіть текст">
+    <button onclick="sendRequest()">Надіслати</button>
+    <div id="response"></div>
+
+    <script>
+        async function sendRequest() {
+            const input = document.getElementById("inputText").value;
+            const responseDiv = document.getElementById("response");
+
+            const requestBody = JSON.stringify({ text: input });
+
+            console.log("Отправляем JSON:", requestBody); // Логируем отправляемый JSON
+
+            try {
+                const res = await fetch("http://192.168.0.183:5000/getHEX", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: requestBody,
+                });
+
+                if (!res.ok) {
+                    const errorText = await res.text();
+                    throw new Error(`HTTP ${res.status}: ${errorText}`);
+                }
+
+                const data = await res.json();
+                responseDiv.innerText = "Відповідь сервера: " + data.result;
+            } catch (error) {
+                console.error("Ошибка запроса:", error);
+                responseDiv.innerText = "Помилка: " + error.message;
+            }
+        }
+    </script>
+</body>
+</html>

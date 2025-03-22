@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|c:\\users\\moivt\\source\\repos\\pvms_lb1_serverwebapi_chervenko\\pvms_lb1_serverwebapi_chervenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|solutionrelative:pvms_lb1_serverwebapi_chervenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_serverwebapi_chervenko\\newfolder\\clienthtmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|solutionrelative:pvms_lb1_serverwebapi_chervenko\\newfolder\\clienthtmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_serverwebapi_chervenko\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|solutionrelative:pvms_lb1_serverwebapi_chervenko\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moivt\\AppData\\Local\\Temp\\.vsdbgsrc\\072802908db4f066766ded3d3ec0a5982bfa1c4752ec99c1be7cbacdfb888f20\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_serverwebapi_chervenko\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|solutionrelative:pvms_lb1_serverwebapi_chervenko\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_serverwebapi_chervenko\\pvms_lb1_serverwebapi_chervenko.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2517D976-E31D-4D73-84AB-02E2245013F8}|pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.csproj|solutionrelative:pvms_lb1_serverwebapi_chervenko\\pvms_lb1_serverwebapi_chervenko.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\Program.cs",
+              "RelativeDocumentMoniker": "pvms_lb1_ServerWebAPI_Chervenko\\Program.cs",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\Program.cs",
+              "RelativeToolTip": "pvms_lb1_ServerWebAPI_Chervenko\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:51:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clienthtmlpage.html",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\NewFolder\\clienthtmlpage.html",
+              "RelativeDocumentMoniker": "pvms_lb1_ServerWebAPI_Chervenko\\NewFolder\\clienthtmlpage.html",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\NewFolder\\clienthtmlpage.html",
+              "RelativeToolTip": "pvms_lb1_ServerWebAPI_Chervenko\\NewFolder\\clienthtmlpage.html",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-22T15:27:04.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moivt\\AppData\\Local\\Temp\\.vsdbgsrc\\072802908db4f066766ded3d3ec0a5982bfa1c4752ec99c1be7cbacdfb888f20\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\072802908db4f066766ded3d3ec0a5982bfa1c4752ec99c1be7cbacdfb888f20\\Program.cs",
+              "ToolTip": "C:\\Users\\moivt\\AppData\\Local\\Temp\\.vsdbgsrc\\072802908db4f066766ded3d3ec0a5982bfa1c4752ec99c1be7cbacdfb888f20\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\072802908db4f066766ded3d3ec0a5982bfa1c4752ec99c1be7cbacdfb888f20\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:21:30.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pvms_lb1_ServerWebAPI_Chervenko.http",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.http",
+              "RelativeDocumentMoniker": "pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.http",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.http",
+              "RelativeToolTip": "pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-21T11:14:01.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "pvms_lb1_ServerWebAPI_Chervenko\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\appsettings.Development.json",
+              "RelativeToolTip": "pvms_lb1_ServerWebAPI_Chervenko\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T11:14:00.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\appsettings.json",
+              "RelativeDocumentMoniker": "pvms_lb1_ServerWebAPI_Chervenko\\appsettings.json",
+              "ToolTip": "C:\\Users\\moivt\\source\\repos\\pvms_lb1_ServerWebAPI_Chervenko\\pvms_lb1_ServerWebAPI_Chervenko\\appsettings.json",
+              "RelativeToolTip": "pvms_lb1_ServerWebAPI_Chervenko\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T11:13:58.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
