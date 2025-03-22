@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("pvms_lb1_ServerWebAPI_Chervenko")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff782ef2d0cb880cabef483e29b42249c321a483")]
 [assembly: System.Reflection.AssemblyProductAttribute("pvms_lb1_ServerWebAPI_Chervenko")]
