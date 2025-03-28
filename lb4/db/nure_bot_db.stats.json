@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "67e6a6cc9342986c4e2b7baa"
+  },
+  "TotalUsers": 2,
+  "SearchCount": 7,
+  "UniqueUserIds": [
+    {
+      "$numberLong": "501674887"
+    }
+  ]
+}]
