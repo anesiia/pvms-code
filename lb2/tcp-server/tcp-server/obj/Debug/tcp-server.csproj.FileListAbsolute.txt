@@ -1,0 +1,7 @@
+C:\Users\moivt\source\repos\tcp-server\tcp-server\bin\Debug\tcp-server.exe.config
+C:\Users\moivt\source\repos\tcp-server\tcp-server\bin\Debug\tcp-server.exe
+C:\Users\moivt\source\repos\tcp-server\tcp-server\bin\Debug\tcp-server.pdb
+C:\Users\moivt\source\repos\tcp-server\tcp-server\obj\Debug\tcp-server.csproj.AssemblyReference.cache
+C:\Users\moivt\source\repos\tcp-server\tcp-server\obj\Debug\tcp-server.csproj.CoreCompileInputs.cache
+C:\Users\moivt\source\repos\tcp-server\tcp-server\obj\Debug\tcp-server.exe
+C:\Users\moivt\source\repos\tcp-server\tcp-server\obj\Debug\tcp-server.pdb

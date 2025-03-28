@@ -1,0 +1,7 @@
+C:\Users\moivt\source\repos\udp-server\udp-server\bin\Debug\udp-server.exe.config
+C:\Users\moivt\source\repos\udp-server\udp-server\bin\Debug\udp-server.exe
+C:\Users\moivt\source\repos\udp-server\udp-server\bin\Debug\udp-server.pdb
+C:\Users\moivt\source\repos\udp-server\udp-server\obj\Debug\udp-server.csproj.AssemblyReference.cache
+C:\Users\moivt\source\repos\udp-server\udp-server\obj\Debug\udp-server.csproj.CoreCompileInputs.cache
+C:\Users\moivt\source\repos\udp-server\udp-server\obj\Debug\udp-server.exe
+C:\Users\moivt\source\repos\udp-server\udp-server\obj\Debug\udp-server.pdb
